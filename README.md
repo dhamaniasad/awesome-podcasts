@@ -1,7 +1,6 @@
 Awesome Podcasts
 ================
 
-#### General
 * [Software Engineering Radio](http://www.se-radio.net/)
 * [techzing tech podcast](http://techzinglive.com/)
 * [FLOSS Weekly](http://twit.tv/show/floss-weekly)
@@ -21,7 +20,5 @@ Awesome Podcasts
 * [The Guardian Tech Weekly](http://www.theguardian.com/technology/series/techweekly)
 * [The Command Line](http://thecommandline.net/)
 * [The Retrobits Podcast](http://retrobits.libsyn.org/)
-
-#### iOS
 * [Developing Perspective](http://developingperspective.com/)
 * [iMore Debug](http://www.imore.com/debug) 
