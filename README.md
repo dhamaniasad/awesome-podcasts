@@ -17,8 +17,11 @@ Awesome Podcasts
 * [Let's Talk About Tech](http://www.bbc.co.uk/podcasts/series/jot)
 * [Pragmatic](http://techdistortion.com/podcasts/pragmatic)
 * [NPR Technology](http://www.npr.org/sections/technology/)
+* [Tekzilla](http://revision3.com/tekzilla/)
+* [The Guardian Tech Weekly](http://www.theguardian.com/technology/series/techweekly)
+* [The Command Line](http://thecommandline.net/)
+* [The Retrobits Podcast](http://retrobits.libsyn.org/)
 
 #### iOS
 * [Developing Perspective](http://developingperspective.com/)
-* [iMore Debug](http://www.imore.com/debug)
-* 
+* [iMore Debug](http://www.imore.com/debug) 
