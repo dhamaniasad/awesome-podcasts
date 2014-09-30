@@ -17,4 +17,8 @@ Awesome Podcasts
 * [Let's Talk About Tech](http://www.bbc.co.uk/podcasts/series/jot)
 * [Pragmatic](http://techdistortion.com/podcasts/pragmatic)
 * [NPR Technology](http://www.npr.org/sections/technology/)
+
+#### iOS
+* [Developing Perspective](http://developingperspective.com/)
+* [iMore Debug](http://www.imore.com/debug)
 * 
