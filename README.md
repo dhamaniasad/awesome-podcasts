@@ -51,3 +51,5 @@ Awesome Podcasts
 * [WebDevRadio](http://webdevradio.com/)
 * [Jupiter Broadcasting](http://www.jupiterbroadcasting.com/)
 * [Risky Business](http://risky.biz/)
+* [Darknet Diaries](https://darknetdiaries.com)
+
